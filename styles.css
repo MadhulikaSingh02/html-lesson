@@ -1,0 +1,23 @@
+img {
+  width: 200px;
+  height: 100px;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+/* #student-name {
+  background-color: aqua;
+  height: 100px;
+}
+#contact-info {
+  background-color: orange;
+  height: 100px;
+}
+main {
+  background-color: pink;
+} */
+span {
+  background-color: pink;
+}
