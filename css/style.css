@@ -1,0 +1,20 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+/* h1 {
+  color: blueviolet;
+  background-color: #ffff00;
+  border: 2px solid red;
+  /* width: 200px;
+  height: 100px; 
+} */
+button {
+  color: brown;
+  background-color: cadetblue;
+}
+#id1 {
+  background-color: brown;
+}
+.heading {
+  background-color: orange;
+}

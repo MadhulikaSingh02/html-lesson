@@ -1,0 +1,9 @@
+rgb  -red green blue
+hexadecimal - 
+decimal - 0-9 66 
+octal - 0-7 89 - 
+binary - 0,1
+hexadecimal - 0-9, A,B,c,d,e,f
+
+hsl - hue, saturation lightness
+255 - FF
